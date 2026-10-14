@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#003B8E"/>
+      <stop offset="1" stop-color="#002D6B"/>
+    </linearGradient>
+    <linearGradient id="o" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF6B00"/>
+      <stop offset="1" stop-color="#FF8533"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="120" r="220" fill="#FF6B00" opacity="0.12"/>
+  <circle cx="120" cy="540" r="180" fill="#3387DF" opacity="0.12"/>
+  <g transform="translate(90,250)">
+    <rect width="84" height="84" rx="20" fill="white" opacity="0.12"/>
+    <path d="M16 54 Q42 32 68 54" stroke="#FF6B00" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <circle cx="42" cy="38" r="7" fill="#FF6B00"/>
+    <path d="M42 38 L42 62" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="200" y="300" font-family="Poppins, Inter, sans-serif" font-size="76" font-weight="800" fill="white">Bridgewayz</text>
+  <text x="200" y="370" font-family="Inter, sans-serif" font-size="34" font-weight="500" fill="white" opacity="0.85">Your Global Education Partner</text>
+  <rect x="200" y="420" width="380" height="60" rx="30" fill="url(#o)"/>
+  <text x="390" y="460" text-anchor="middle" font-family="Inter, sans-serif" font-size="26" font-weight="700" fill="white">Study in Canada</text>
+</svg>
